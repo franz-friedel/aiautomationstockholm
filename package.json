@@ -1,0 +1,15 @@
+{
+  "name": "stockholm-ai-leads",
+  "version": "1.0.0",
+  "description": "AI solutions for facility management and waste management tailored for Stockholm.",
+  "main": "server/form-handler.js",
+  "scripts": {
+    "start": "node server/form-handler.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
